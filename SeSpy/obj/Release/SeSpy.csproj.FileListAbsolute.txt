@@ -1,0 +1,11 @@
+C:\Users\Chai\VS2015\SeSpy\SeSpy\bin\Release\SeSpy.exe.config
+C:\Users\Chai\VS2015\SeSpy\SeSpy\bin\Release\SeSpy.exe
+C:\Users\Chai\VS2015\SeSpy\SeSpy\bin\Release\SeSpy.pdb
+C:\Users\Chai\VS2015\SeSpy\SeSpy\bin\Release\HtmlAgilityPack.dll
+C:\Users\Chai\VS2015\SeSpy\SeSpy\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Chai\VS2015\SeSpy\SeSpy\bin\Release\HtmlAgilityPack.xml
+C:\Users\Chai\VS2015\SeSpy\SeSpy\obj\Release\SeSpy.Properties.Resources.resources
+C:\Users\Chai\VS2015\SeSpy\SeSpy\obj\Release\SeSpy.frmSeSpy.resources
+C:\Users\Chai\VS2015\SeSpy\SeSpy\obj\Release\SeSpy.csproj.GenerateResource.Cache
+C:\Users\Chai\VS2015\SeSpy\SeSpy\obj\Release\SeSpy.exe
+C:\Users\Chai\VS2015\SeSpy\SeSpy\obj\Release\SeSpy.pdb
